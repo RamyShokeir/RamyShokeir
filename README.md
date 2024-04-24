@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramy Shokeir</h1>
 <h3 align="center">A passionate Digital Design and Verification Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyshokeir&label=Profile%20views&color=0e75b6&style=flat" alt="ramyshokeir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamyShokeir&label=Profile%20views&color=0e75b6&style=flat" alt="RamyShokeir" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
