@@ -13,4 +13,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamyShokeir&show_icons=true&locale=en&layout=compact" alt="RamyShokeir" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RamyShokeir&show_icons=true&locale=en" alt="RamyShokeir" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamyShokeir&" alt="RamyShokeir" /></p>
+
