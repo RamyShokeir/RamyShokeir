@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramy Shokeir</h1>
 <h3 align="center">An Electronics and Electrical Communication Engineer from Egypt</h3>
-<p align="center">
-  Passionate about Digital IC Design , Verification. <br>
-  Good Knowledge in SystemVerilog, UVM, and RTL design for high-performance systems. <br>
-  I enjoy solving real-world engineering problems and continuously learning new technologies. <br>
-  Open to collaboration and always excited about innovative tech challenges!
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
